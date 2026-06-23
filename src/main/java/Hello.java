@@ -6,5 +6,6 @@
 public class Hello {
     public static void main(String[]args){
         System.out.println("Hello Mr. Mwangi, welcome back to the Java language!");
+        System.out.print("This is a test");
     }
 }
