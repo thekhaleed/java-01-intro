@@ -19,6 +19,5 @@ public class BudgetCalculator {
         System.out.println("Total Expenses:" + totalExpenses);
         System.out.println("Remaining Money:" + remainingMoney);
         System.out.println("Percentage Remaining:" + percentageOfIncomeRemaining + "%");
-
     }
 }
