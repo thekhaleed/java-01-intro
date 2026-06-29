@@ -12,6 +12,7 @@ public class Maths {
 //      Here we are first creating an instance of the Maths object so we can access its instance method
         Maths mars = new Maths();
         System.out.println(mars.division(3,6));
+        System.out.println(mars.modulus(3,6)); //This works but yiu see it brings a warning because this ia a static class
 
     }
 
